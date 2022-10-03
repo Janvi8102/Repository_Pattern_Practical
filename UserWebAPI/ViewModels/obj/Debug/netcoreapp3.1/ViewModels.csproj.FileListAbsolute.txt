@@ -1,0 +1,10 @@
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CoreCompileInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.AssemblyReference.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\bin\Debug\netcoreapp3.1\DomainModels.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\bin\Debug\netcoreapp3.1\DomainModels.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\bin\Debug\netcoreapp3.1\ViewModels.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\Repositories\bin\Debug\netcoreapp3.1\ViewModels.pdb

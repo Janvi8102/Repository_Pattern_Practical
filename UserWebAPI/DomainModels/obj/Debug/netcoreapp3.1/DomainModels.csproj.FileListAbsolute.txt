@@ -1,0 +1,10 @@
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\bin\Debug\netcoreapp3.1\DomainModels.deps.json
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\bin\Debug\netcoreapp3.1\DomainModels.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\bin\Debug\netcoreapp3.1\DomainModels.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.AssemblyInfoInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.AssemblyInfo.cs
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.csproj.CoreCompileInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\DomainModels\obj\Debug\netcoreapp3.1\DomainModels.csproj.AssemblyReference.cache

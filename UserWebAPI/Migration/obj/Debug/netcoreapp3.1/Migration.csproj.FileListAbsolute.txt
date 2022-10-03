@@ -1,0 +1,13 @@
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\bin\Debug\netcoreapp3.1\Migration.deps.json
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\bin\Debug\netcoreapp3.1\Migration.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\bin\Debug\netcoreapp3.1\Migration.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\bin\Debug\netcoreapp3.1\DomainModels.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\bin\Debug\netcoreapp3.1\DomainModels.pdb
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.AssemblyReference.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfoInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfo.cs
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CoreCompileInputs.cache
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CopyComplete
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.dll
+C:\..WebAPI_Practical_Repo\UserWebAPI\Migration\obj\Debug\netcoreapp3.1\Migration.pdb
